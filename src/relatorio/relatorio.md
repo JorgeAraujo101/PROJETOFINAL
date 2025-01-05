@@ -1,4 +1,4 @@
-# Trabalho Prático  
+# Projeto Final  
 **Algoritmos e Técnicas de Programação**  
 Ano Letivo 2024/2025  
 
@@ -15,21 +15,6 @@ Braga, 5 de janeiro de 2025
 
 ## Resumo  
 Este relatório foi elaborado no contexto da unidade curricular de Algoritmos e Técnicas de Programação da Universidade do Minho, com o objetivo de desenvolver um sistema de Consulta e Análise de Publicações Científicas com o uso de Python. O principal objetivo deste projeto é criar uma ferramenta simples, intuitiva e eficiente, que permita aos usuários visualizar e manipular publicações científicas de forma acessível e prática. Essa abordagem está alinhada com os objetivos da disciplina, ao proporcionar a aplicação de técnicas de programação para resolver problemas do mundo real e facilitar o acesso a informações acadêmicas relevantes.
-
----
-## Índice
-1. [Introdução](#introdução)
-2. [Estrutura do Projeto](#estrutura-do-projeto)
-    - [Ficheiros do Projeto](#ficheiros-do-projeto)
-    - [Descrição dos Componentes](#descrição-dos-componentes)
-3. [Funcionalidades do Sistema](#funcionalidades-do-sistema)
-    - [Funcionalidades Implementadas](#funcionalidades-implementadas)
-    - [Funcionalidades Extra](#funcionalidades-extra)
-4. [Instruções de Uso](#instruções-de-uso)
-5. [Estrutura de Dados](#estrutura-de-dados)
-6. [Desafios e Soluções](#desafios-e-soluções)
-7. [Conclusão](#conclusão)
-8. [Referências](#referências)
 
 ---
 
